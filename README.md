@@ -41,4 +41,4 @@ maxWidth='lg'
     )
 }
 
-export default GroupFund;
+------------------------
